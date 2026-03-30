@@ -3,3 +3,5 @@ pandas
 numpy
 plotly
 FinMind
+tqdm
+requests
